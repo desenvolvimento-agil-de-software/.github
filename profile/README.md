@@ -7,21 +7,21 @@ Bem-vindo à organização da pós-graduação! 🎓 Aqui estão armazenados os 
 Cada disciplina tem seu próprio repositório, onde armazenamos códigos, relatórios e demais arquivos necessários para os trabalhos.
 
 ```
-├── 🏛 **MADS**  
-├── 🏛 **MAG1**  
-├── 🏛 **MAG2**  
-├── 🎨 **UX**  
-├── 📊 **GAP1**  
-├── 📊 **GAP2**  
-├── 🗄 **BD**  
-├── 🚀 **INTRO**  
-├── 🤖 **AAP**  
-├── 🌐 **WEB1**  
-├── 🌐 **WEB2**  
-├── 📱 **MOB1**  
-├── 📱 **MOB2**  
-├── 🔧 **INFRA**  
-└── 🧪 **TEST**  
+├── 🏛 MADS  
+├── 🏛 MAG1 
+├── 🏛 MAG2 
+├── 🎨 UX 
+├── 📊 GAP1
+├── 📊 GAP2 
+├── 🗄 BD  
+├── 🚀 INTRO  
+├── 🤖 AAP
+├── 🌐 WEB1  
+├── 🌐 WEB2 
+├── 📱 MOB1  
+├── 📱 MOB2
+├── 🔧 INFRA  
+└── 🧪 TEST  
 ```
 
 ## 🚀 Ferramentas Utilizadas
